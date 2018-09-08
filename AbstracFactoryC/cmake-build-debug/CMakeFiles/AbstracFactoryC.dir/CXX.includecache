@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ocastro/CLionProjects/AbstracFactoryC/car.cpp
+iostream
+-
+
+/home/ocastro/CLionProjects/AbstracFactoryC/carFactory.cpp
+iostream
+-
+car.cpp
+/home/ocastro/CLionProjects/AbstracFactoryC/car.cpp
+
+/home/ocastro/CLionProjects/AbstracFactoryC/main.cpp
+iostream
+-
+carFactory.cpp
+/home/ocastro/CLionProjects/AbstracFactoryC/carFactory.cpp
+

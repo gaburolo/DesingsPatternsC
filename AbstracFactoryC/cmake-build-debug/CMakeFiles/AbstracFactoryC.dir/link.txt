@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/AbstracFactoryC.dir/main.cpp.o CMakeFiles/AbstracFactoryC.dir/carFactory.cpp.o CMakeFiles/AbstracFactoryC.dir/car.cpp.o  -o AbstracFactoryC 
